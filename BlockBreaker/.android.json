@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "landscape", "package": "se.baxemyr.blockfortress", "include_pil": false, "name": "Block Fortress", "icon_name": "Block Fortress", "version": "1.2", "permissions": ["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"], "include_sqlite": false, "numeric_version": "102"}
